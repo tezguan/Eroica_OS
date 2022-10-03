@@ -19,3 +19,6 @@ Script kodlarını Github'a yüklüyorum. Programlar kendi sitelerine ait linker
 
 
 # Ayrıca bu scripti/programı veya her neyse onu kullanmanın senin sorumluluğunda olduğunu bilmelisin. Herhangi bir zarar söz konusu olduğunda sorumlusu sensin. Kullan ama sorumlusu sensin/You can use it, but it’s at your own risk.
+
+
+Ayrıca Windows için WGET'e ihtiyacınız olacak.
